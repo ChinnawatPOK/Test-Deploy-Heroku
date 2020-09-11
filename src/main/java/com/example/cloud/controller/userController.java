@@ -18,4 +18,5 @@ public class userController {
     public List<User> getAllUser(){
         return userRepository.findAll();
     }
+    // test
 }
